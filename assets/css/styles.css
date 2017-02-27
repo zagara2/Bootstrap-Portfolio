@@ -108,7 +108,10 @@ h1, h2, h3 {
 	font-weight: 300;
 }
 
-
+.navbar-right {
+	margin-right:90px;
+	margin-left:0;
+}
 
 
 
