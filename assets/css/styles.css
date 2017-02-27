@@ -12,7 +12,17 @@ h1, h2, h3 {
 	color: #4aaaa5;
 }
 
+a:-webkit-any-link {
+    
+    text-decoration: none;
+    
+}
 
+a {
+    
+    text-decoration: none;
+    
+}
 .navbar-default .navbar-brand {
     color: #4aaaa5;
     font-family: "Georgia", Times, Times New Roman, serif;
@@ -116,7 +126,7 @@ h1, h2, h3 {
 a:-webkit-any-link {
     
     text-decoration: none;
-    cursor: auto;
+    
 }
 
 
