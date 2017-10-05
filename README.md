@@ -24,9 +24,13 @@ Plans to test on Safari are upcoming.
 
 The site is best viewed on a small desktop (1280x1024), but looks good on essentially any modern device's screen resolution. This includes both a 10" and 12" Netbook, a 13" and 15" notebook, 19"-24" desktops, Kindle Fire, Asus Nexus 7, iPad and iPad Pro, Samsung Galaxy tab, Microsoft Surface Pro, iPhone 3 and up (including iPhone 6-7 plus), Galaxy S2 and up, LG G 3-5, and 480p, 720p and 1080p televisions.
 
-Here is the desktop layout of the site, as it should look when loaded properly:
+Here is the desktop layout of the site, as it should look when loaded properly on a larger desktop:
 
-![Desktop Layout](/assets/images/homepage.JPG)
+![Desktop Layout](/assets/images/largerdesktop.JPG)
+
+On a somewhat smaller desktop, or tablet:
+
+![Smaller Desktop Layout](/assets/images/homepage.JPG)
 
 Here is the mobile layout of the site, as it should look when loaded properly:
 
