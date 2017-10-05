@@ -26,7 +26,7 @@ The site is best viewed on a small desktop (1280x1024), but looks good on essent
 
 Here is the desktop layout of the site, as it should look when loaded properly on a larger desktop:
 
-![Desktop Layout](/assets/images/largerdesktop.JPG)
+![Desktop Layout](/assets/images/largedesktop.JPG)
 
 On a somewhat smaller desktop, or tablet:
 
