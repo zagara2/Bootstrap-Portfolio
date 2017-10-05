@@ -34,4 +34,6 @@ Here is the mobile layout of the site, as it should look when loaded properly:
 
 **(the bottom is slightly cut off in this screencapture, but it appears fully on the actual mobile site)**
 
+**********
+
 The actual, fully functional version of my portfolio site can be found at https://zagara2.github.io/Responsive-Portfolio/index.html .
