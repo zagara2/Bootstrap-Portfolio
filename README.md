@@ -3,7 +3,7 @@
 ## What is it?
 A version of my portfolio site that uses Bootstrap grids rather than media queries to make the site adapt to different screen sizes. Bootstrap is also used to create the heading, panels, etc. 
 
-This version of the portfolio site is not populated with my actual project data or a functional contact form, rather, it uses placeholders. I simply created it as a demonstration of my Bootstrap ability. 
+**This version of the portfolio site is (intentionally) not populated with my actual project data or a functional contact form, rather, it uses placeholders.** I simply created it as a demonstration of my Bootstrap ability. 
 
 The site is currently deployed at https://zagara2.github.io/Bootstrap-Portfolio/ .
 
@@ -16,7 +16,7 @@ The site is currently deployed at https://zagara2.github.io/Bootstrap-Portfolio/
 
 ### Browser Tests
 
-The site has been tested on Chrome, Firefox, and Internet Explorer. It is fully functional on all of these browsers.
+The site has been tested on Chrome, Firefox, and Internet Explorer. It works as it should on all of these browsers.
 
 Plans to test on Safari are upcoming.
 
@@ -32,4 +32,6 @@ Here is the mobile layout of the site, as it should look when loaded properly:
 
 ![Mobile Layout](/assets/images/mobile.JPG)
 
-**the bottom is slightly cut off in this screencapture, but it appears fully on the actual mobile site**
+**(the bottom is slightly cut off in this screencapture, but it appears fully on the actual mobile site)**
+
+The actual, fully functional version of my portfolio site can be found at https://zagara2.github.io/Responsive-Portfolio/index.html .
